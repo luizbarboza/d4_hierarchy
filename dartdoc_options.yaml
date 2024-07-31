@@ -1,0 +1,18 @@
+dartdoc:
+  categories:
+    "Hierarchies":
+      markdown: doc/hierarchy.md
+    "Stratify":
+      markdown: doc/stratify.md
+    "Tree":
+      markdown: doc/tree.md
+    "Cluster":
+      markdown: doc/cluster.md
+    "Partition":
+      markdown: doc/partition.md
+    "Pack":
+      markdown: doc/pack.md
+    "Treemap":
+      markdown: doc/treemap.md
+    "Treemap tiling":
+      markdown: doc/treemap_tile.md

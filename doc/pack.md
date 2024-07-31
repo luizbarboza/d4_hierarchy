@@ -1,0 +1,3 @@
+[<img alt="Circle-Packing" src="https://raw.githubusercontent.com/d3/d3-hierarchy/main/img/pack.png">](https://observablehq.com/@d3/circle-packing)
+
+Enclosure diagrams use containment (nesting) to represent a hierarchy. The size of the leaf circles encodes a quantitative dimension of the data. The enclosing circles show the approximate cumulative size of each subtree, but due to wasted space there is some distortion; only the leaf nodes can be compared accurately. Although [circle packing](http://en.wikipedia.org/wiki/Circle_packing) does not use space as efficiently as a [treemap](https://pub.dev/documentation/d4_hierarchy/latest/topics/Treemap-topic.html), the “wasted” space more prominently reveals the hierarchical structure.

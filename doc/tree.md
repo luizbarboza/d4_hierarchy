@@ -1,0 +1,3 @@
+<img alt="Partition" src="https://raw.githubusercontent.com/d3/d3-hierarchy/main/img/cluster.png">
+
+The tree layout produces tidy node-link diagrams of trees using the [Reingold–Tilford “tidy” algorithm](http://reingold.co/tidier-drawings.pdf), improved to run in linear time by [Buchheim *et al.*](http://dirk.jivas.de/papers/buchheim02improving.pdf) Tidy trees are typically more compact than [dendrograms](https://pub.dev/documentation/d4_hierarchy/latest/topics/Cluster-topic.html).

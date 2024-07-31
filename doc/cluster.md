@@ -1,0 +1,3 @@
+<img alt="Partition" src="https://raw.githubusercontent.com/d3/d3-hierarchy/main/img/cluster.png">
+
+The cluster layout produces [dendrograms](http://en.wikipedia.org/wiki/Dendrogram): node-link diagrams that place leaf nodes of the tree at the same depth. Dendrograms are typically less compact than [tidy trees](https://pub.dev/documentation/d4_hierarchy/latest/topics/Tree-topic.html), but are useful when all the leaves should be at the same level, such as for hierarchical clustering or [phylogenetic tree diagrams](https://observablehq.com/@d3/tree-of-life).

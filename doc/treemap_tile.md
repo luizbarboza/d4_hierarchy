@@ -1,0 +1,1 @@
+Several built-in tiling methods are provided for use with [Treemap.tile](https://pub.dev/documentation/d4_hierarchy/latest/d4_hierarchy/Treemap/tile.html).
